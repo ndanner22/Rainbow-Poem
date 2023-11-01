@@ -6,4 +6,5 @@ green
 unicorn
 yellow
 etc
+indigo
 These are the colors and the unicorn

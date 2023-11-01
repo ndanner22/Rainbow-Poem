@@ -2,5 +2,6 @@ The Rainbow
 Purple
 pink
 green
+yellow
 etc
 These are the colors
